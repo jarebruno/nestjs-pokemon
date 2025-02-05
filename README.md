@@ -17,6 +17,16 @@ npm i -g @nestjs/cli
 ```
 docker compose up -d
 ```
+5. Clonar el archivo .env.template y renombrar a .env
+6. Configurar variables de entorno
+7. Ejecutar
+```
+yarn start:dev
+```
+8. Reconstruir la base de datos
+```
+http://localhost:3000/seed
+```
 
 ## Stack
 * Nest

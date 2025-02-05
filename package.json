@@ -80,6 +80,6 @@
     "testEnvironment": "node"
   },
   "engines": {
-    "node": "20.18.2"
+    "node": "20.18.0"
   }
 }
